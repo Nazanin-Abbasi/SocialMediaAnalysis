@@ -32,14 +32,14 @@ Then we calculate average neighbor degree along with its chart:
 ![09](https://user-images.githubusercontent.com/120925422/210346138-6f1a70a2-1c48-4829-a6cc-d50e341cfdc0.PNG)
 ![10](https://user-images.githubusercontent.com/120925422/210346189-f65e1b10-587e-46dd-95e9-0ec54a6325f2.PNG)
 
-Finally, we calculate average common neighbor along with its chart:
+Finally, we calculate the average common neighbor along with its chart:
 
 ![12](https://user-images.githubusercontent.com/120925422/210346365-2527b53c-25f9-4d62-8d1e-d09d00469140.PNG)
 ![13](https://user-images.githubusercontent.com/120925422/210346411-d40a4f04-01d5-4c52-a7de-78bfe52c4b29.PNG)
 
 ## SNA 02
 
-We fisrt defined a graph on the given dataset. Then we randomly selected 380 nodes and structured a new graph.
+We first defined a graph on the given dataset. Then we randomly selected 380 nodes and structured a new graph.
 
 Here is the new graph:
 ![04](https://user-images.githubusercontent.com/120925422/210349139-50af75cb-e1c3-41ca-9fa7-682e1d729b54.PNG)
